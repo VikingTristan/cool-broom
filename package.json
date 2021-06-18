@@ -1,5 +1,5 @@
 {
-  "name": "@vikingtristan/cool-broom",
+  "name": "@vikingtom/cool-broom",
   "version": "1.0.0",
   "description": "Cool broom",
   "main": "index.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/VikingTristan/cool-broom/issues"
   },
-  "homepage": "https://github.com/VikingTristan/cool-broom#readme"
+  "homepage": "https://github.com/VikingTristan/cool-broom#readme",
+  "keywords": [
+    "vikingtom",
+    "broom"
+  ]
 }

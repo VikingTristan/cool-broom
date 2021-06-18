@@ -1,5 +1,15 @@
-# cool-broom
-Repository to test automation of node package ecosystem.
+# Cool Broom 🧹 🧹 🧹
+Fill the internet with more brooms.
 
-### Package
-Publishes a package at `@vikingtom/cool-broom`
+# 🧹 🧹 🧹
+
+## Usage
+
+`npm install @vikingtom/cool-broom`
+
+`import coolBroom from "@vikingtom/cool-broom`
+
+`coolBroom() // This will print out the crucial 🧹`
+
+### Package importance
+This very important package is a must-have in all modern applications.
